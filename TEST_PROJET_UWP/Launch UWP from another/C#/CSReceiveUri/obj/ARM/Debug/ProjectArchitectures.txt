@@ -1,0 +1,1 @@
+C:\Users\User_Holo2\Documents\Piste travail DBOUDY\Launch UWP from another\C#\CSReceiveUri\CSReceiveUri.csproj;arm
